@@ -1,5 +1,14 @@
 # 💫 About Me:
-Hello! I'm Hussein, a passionate Fullstack Web Developer currently based in Hamburg, Germany. <br>I am now training in Fullstack Web Development at DCI Digital Career Institute GmbH.<br>My journey into tech has been driven by a deep interest in creating efficient, responsive web applications.<br><br>What I Do:<br>🌐 Fullstack Web Development: Currently focused on the MERN stack, with hands-on experience in JavaScript, Node.js, Express.js, MongoDB, React, and more.<br>🎨 Front-End Development: Skilled in HTML5, CSS3, Sass, and Bootstrap, with a knack for crafting user-friendly interfaces.<br>🔧 Back-End Development: Proficient in building and maintaining server-side applications using Node.js and Express.js.
+👋 Hi, I’m Hussein! Junior Fullstack Web Developer on a mission to turn coffee into code and bugs into features. When I’m not debugging, you can find me exploring new tech, pretending to be a tech guru, or debating if video games count as work. 🎮☕✨
+### Skills
+- Turning coffee into code ☕➡️💻
+- HTML, CSS, JavaScript, and a dash of Sass 🧙‍♂️
+- Building apps and breaking them (for learning purposes) 🔧💥
+
+### Projects
+- Currently working on projects that are way cooler than my coffee mug.
+
+Let’s connect and see what kind of digital trouble we can get into! 🚀
 
 
 ## 🌐 Socials:
